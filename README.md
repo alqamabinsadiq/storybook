@@ -18,7 +18,7 @@ It allows you to browse a component library, view the different states of each c
 
 ![Storybook Screenshot](app/react/docs/demo.gif)
 
-Storybook runs outside of your app. This allows you to develop UI components in isolation, which can improve component reuse, testability, and development speed. You can build quickly without having to worry about application-specific dependencies.
+Storybook runs outside of your app. This allows you to develop UI components in isolation, which can improve component reusability, testability, and development speed. You can build quickly without having to worry about application-specific dependencies.
 
 Here are some featured examples that you can reference to see how Storybook works: <https://storybook.js.org/examples/>
 
@@ -233,4 +233,4 @@ Support us with a monthly donation and help us continue our activities. \[[Becom
 
 ## License
 
-[MIT](https://github.com/storybooks/storybook/blob/master/LICENSE)
+This source code is licensed under the [MIT](https://github.com/storybooks/storybook/blob/master/LICENSE) license.
